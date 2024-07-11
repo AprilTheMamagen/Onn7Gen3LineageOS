@@ -1,5 +1,4 @@
-# Onn7Gen3LineageOS
-Onn 7 inch Gen 3 LineageOS and Bootloader Unlock
+#Onn 7 inch Gen 3 LineageOS and Bootloader Unlock
 
 This puts so much more usability into this tablet
 
